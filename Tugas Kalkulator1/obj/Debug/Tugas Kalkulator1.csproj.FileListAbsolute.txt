@@ -1,0 +1,7 @@
+D:\5711\Tugas Kalkulator1\Tugas Kalkulator1\bin\Debug\Tugas Kalkulator1.exe.config
+D:\5711\Tugas Kalkulator1\Tugas Kalkulator1\bin\Debug\Tugas Kalkulator1.exe
+D:\5711\Tugas Kalkulator1\Tugas Kalkulator1\bin\Debug\Tugas Kalkulator1.pdb
+D:\5711\Tugas Kalkulator1\Tugas Kalkulator1\obj\Debug\Tugas Kalkulator1.csproj.AssemblyReference.cache
+D:\5711\Tugas Kalkulator1\Tugas Kalkulator1\obj\Debug\Tugas Kalkulator1.csproj.CoreCompileInputs.cache
+D:\5711\Tugas Kalkulator1\Tugas Kalkulator1\obj\Debug\Tugas Kalkulator1.exe
+D:\5711\Tugas Kalkulator1\Tugas Kalkulator1\obj\Debug\Tugas Kalkulator1.pdb
